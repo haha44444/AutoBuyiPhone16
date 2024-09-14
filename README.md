@@ -6,7 +6,7 @@
 * The default is ICBC 24 installments + issuing personal invoices. For other payment methods and invoices, copy the xpath to modify them
 
 ## Usage:
-1. Install python3.7 or light
+1. Install python3.7 or later
 2. Install selenium `pip install selenium`
 3. `git clone https://github.com/haha44444/AutoBuyiPhone16.git`
 4. Modify `appleid_username = 'your apple account email'`
